@@ -35,6 +35,12 @@ ACTIVITY DIAGRAM:
 
 <img width="1236" height="1012" alt="Screenshot 2025-09-15 105952" src="https://github.com/user-attachments/assets/5f021bfc-badc-4c9e-aa47-93ea0027103b" />
 
+SEQUENCE DIAGRAM:
+
+PACKAGE DIAGRAM:
+
+COMMUNICATION DIAGRAM:
+
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
