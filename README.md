@@ -42,7 +42,13 @@ SEQUENCE DIAGRAM:
 
 PACKAGE DIAGRAM:
 
+<img width="1238" height="1016" alt="image" src="https://github.com/user-attachments/assets/10c5749e-a571-4cb5-95a4-0be37e9ae469" />
+
+
+
 COMMUNICATION DIAGRAM:
+ 
+ <img width="1240" height="1012" alt="image" src="https://github.com/user-attachments/assets/0408b9b3-b79e-4fee-bf74-37ccb963aa96" />
 
 
 ### RESULT:
