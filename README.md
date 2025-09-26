@@ -37,6 +37,9 @@ ACTIVITY DIAGRAM:
 
 SEQUENCE DIAGRAM:
 
+<img width="1241" height="1006" alt="image" src="https://github.com/user-attachments/assets/3c7c3c87-77b2-4814-a3c9-ea20da6ef5f2" />
+
+
 PACKAGE DIAGRAM:
 
 COMMUNICATION DIAGRAM:
